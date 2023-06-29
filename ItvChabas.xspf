@@ -1,0 +1,3553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Lista de reproducción</title>
+	<trackList>
+		<track>
+			<location>https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8?PlaylistM3UCL</location>
+			<title> TDC FIRMAT</title>
+			<creator>ARGENTINA</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Tdc Firmat.png</image>
+			<duration>24000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://ythls.onrender.com/channel/UC3OQ66wEJaOPHK25IBdWR_g.m3u8</location>
+			<title> TELEFE CORDOBA</title>
+			<creator>ARGENTINA</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/TELEFE CORDOBA.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://ythls.onrender.com/channel/UCPr0HEFKN8wtDIfcPsVB10Q.m3u8</location>
+			<title> TELEFE ROSARIO</title>
+			<creator>ARGENTINA</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/TELEFE ROSARIO.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://ythls.onrender.com/channel/UCy-r-BQ5BQRU6rzGS73-WBQ.m3u8</location>
+			<title> TELEFE SALTA</title>
+			<creator>ARGENTINA</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/TELEFE SALTA.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/51071</location>
+			<title> TELEFE</title>
+			<creator>ARGENTINA</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Telefe.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/51070</location>
+			<title> EL TRECE</title>
+			<creator>ARGENTINA</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/El Trece.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/51072</location>
+			<title> EL NUEVE</title>
+			<creator>ARGENTINA</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/El Nueve.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/8183</location>
+			<title> TV PUBLICA</title>
+			<creator>ARGENTINA</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Tv Publica.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1155829</location>
+			<title> AMERICA</title>
+			<creator>ARGENTINA</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/America Tv.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/18766</location>
+			<title> TN NOTICIAS</title>
+			<creator>ARGENTINA</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/tn.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/4188</location>
+			<title> CRONICA TV</title>
+			<creator>ARGENTINA</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Cronica Tv.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1155831</location>
+			<title> A24 NOTICIAS</title>
+			<creator>ARGENTINA</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/A24.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1155832</location>
+			<title> C5N HD </title>
+			<creator>ARGENTINA</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/C5n.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://panel.dattalive.com/6605140/6605140/playlist.m3u8</location>
+			<title> 24/7 ARGENTINA</title>
+			<creator>ARGENTINA</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/247.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8</location>
+			<title> T5R SATELITAL</title>
+			<creator>ARGENTINA</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/T5R Satelital.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8</location>
+			<title> EL TRECE MAX HD</title>
+			<creator>ARGENTINA</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/13 Max.png</image>
+			<duration>30000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://stmvideo2.livecastv.com/telediario/telediario/playlist.m3u8?PlaylistM3UCL</location>
+			<title> TELEDIARIO</title>
+			<creator>ARGENTINA</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/TeleDiario.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8</location>
+			<title> IP NOTICIAS</title>
+			<creator>ARGENTINA</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Ip Noticias.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8</location>
+			<title> LA NACION</title>
+			<creator>ARGENTINA</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/LN Mas.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1155833</location>
+			<title> CANAL 26</title>
+			<creator>ARGENTINA</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Canal 26.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/3550</location>
+			<title>  CIUDAD MAGAZINE</title>
+			<creator>ARGENTINA</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/CIUDAD MAGACINE.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://stream1.sersat.com/hls/argentinisima.m3u8</location>
+			<title> ARGENTINISIMA</title>
+			<creator>ARGENTINA</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/ARGENTINISIMA.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://cda2.alsolnet.com/elrural/live/playlist.m3u8?PlaylistM3UCL</location>
+			<title> CANAL RURAL</title>
+			<creator>ARGENTINA</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/RURAL.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://s8.stweb.tv/chacra/live/playlist.m3u8?PlaylistM3UCL</location>
+			<title> CHACRA TV</title>
+			<creator>ARGENTINA</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/CHACRAS.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://panel.dattalive.com:443/8138/8138/playlist.m3u8?PlaylistM3UCL</location>
+			<title> CANAL COOP</title>
+			<creator>ARGENTINA</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Canal Coop.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8</location>
+			<title> AGRO TENDENCIA</title>
+			<creator>ARGENTINA</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Agro Tendencia.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8</location>
+			<title> TELEMAX</title>
+			<creator>ARGENTINA</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/TELEMAX.jpg</image>
+			<duration>28000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/7981</location>
+			<title> CINE AR</title>
+			<creator>ARGENTINA</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Cine Ar.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/7978</location>
+			<title> VOLVER</title>
+			<creator>ARGENTINA</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Volver.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL</location>
+			<title>NET TV</title>
+			<creator>ARGENTINA</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/NETTV.jpg</image>
+			<duration>1000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/7975</location>
+			<title> EL GARAGE TV</title>
+			<creator>ARGENTINA</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/GARAGE TV.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1139098</location>
+			<title> HIPODROMO</title>
+			<creator>ARGENTINA</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/hIPODROMO tV.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/7974</location>
+			<title> ENCUENTRO</title>
+			<creator>ARGENTINA</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/E.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://live.enhdtv.com:19360/tvplaydigital2/tvplaydigital2.m3u8</location>
+			<title> EPS TV C5N</title>
+			<creator>ARGENTINA</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/EPS.png</image>
+			<duration>17850</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://panel.dattalive.com:443/8250/8250/playlist.m3u8?PlaylistM3UCL</location>
+			<title> MULTIVISION</title>
+			<creator>ARGENTINA</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Multivision.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://sc1.stweb.tv/airedigital/live/playlist.m3u8?PlaylistM3UCL</location>
+			<title> AIRE TV SANTA FE</title>
+			<creator>ARGENTINA</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Aire sante Fe.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1155814</location>
+			<title>TNT SPORTS ARGENTINA</title>
+			<creator>DEPORTE</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/tnt SPORT 2.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/3014</location>
+			<title>ESPN 1 HD ARGENTINA</title>
+			<creator>DEPORTE</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Espn.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>37</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/145418</location>
+			<title>ESPN 2 HD ARGENTINA</title>
+			<creator>DEPORTE</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Espn 2.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>38</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/145419</location>
+			<title>ESPN 3 HD ARGENTINA</title>
+			<creator>DEPORTE</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Espn 3.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>39</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/145420</location>
+			<title>ESPN 4 HD ARGENTINA</title>
+			<creator>DEPORTE</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Espn 3.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>40</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/145417</location>
+			<title>ESPN PREMIUM HD ARGENTINA</title>
+			<creator>DEPORTE</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Espn 3.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>41</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/7940</location>
+			<title>ESPN EXTRAARGENTINA</title>
+			<creator>DEPORTE</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Espn extra.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>42</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/43638</location>
+			<title>ESPN PLUSARGENTINA</title>
+			<creator>DEPORTE</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Espn+.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>43</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/145430</location>
+			<title> FOX SPORTS 1 HD ARGENTINA</title>
+			<creator>DEPORTE</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/FoxSport1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>44</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/145431</location>
+			<title> FOX SPORTS 2 HD ARGENTINA</title>
+			<creator>DEPORTE</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/FoxSport2.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>45</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/33475</location>
+			<title> FOX SPORTS 3 HD ARGENTINA</title>
+			<creator>DEPORTE</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/FoxSport3.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>46</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1155819</location>
+			<title> TYC SPORTS ARGENTINA</title>
+			<creator>DEPORTE</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/TyC sport.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>47</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://d21no6qan3ol31.cloudfront.net:443/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index_13.m3u8</location>
+			<title> TYC SPORT PLAY 1</title>
+			<creator>DEPORTE</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/TYC Sport Play.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>48</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index_15.m3u8</location>
+			<title> TYC SPORT PLAY 4</title>
+			<creator>DEPORT4E</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/PLAY 4.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>49</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index_9.m3u8</location>
+			<title> TYC SPORT PLAY 5</title>
+			<creator>DEPORTE</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/PLAY 6.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>50</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index_15.m3u8</location>
+			<title> TYC SPORT PLAY 6</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>51</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1155911</location>
+			<title> DIRECTV FIGHT</title>
+			<creator>DEPORTE</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Directv Fight.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>52</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/7863</location>
+			<title> DIRECTV SPORTS 1 HD</title>
+			<creator>DEPORTE</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Directv Sport.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>53</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/32882</location>
+			<title> DIRECTV SPORTS 2 HD</title>
+			<creator>DEPORTE</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/DIRECTV SPORT 2.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>54</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/27879</location>
+			<title> DIRECTV SPORTS PLUS HD</title>
+			<creator>DEPORTE</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Directv Plus +.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>55</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1147316</location>
+			<title> ELEVEN SPORTS 1</title>
+			<creator>DEPORTE</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Eleven sport 1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>56</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1147317</location>
+			<title> ELEVEN SPORTS 2</title>
+			<creator>DEPORTE</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Eleven Sport2.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>57</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1147318</location>
+			<title> ELEVEN SPORTS 3</title>
+			<creator>DEPORTE</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Eleven Sport 3.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>58</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1147319</location>
+			<title> ELEVEN SPORTS 4</title>
+			<creator>DEPORTE</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Eleven sport 4.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>59</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1147320</location>
+			<title> ELEVEN SPORTS 5</title>
+			<creator>DEPORTE</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Eleven sport 5.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>60</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1147321</location>
+			<title> ELEVEN SPORTS 6</title>
+			<creator>DEPORTE</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Eleven sport 6.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>61</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/29348</location>
+			<title> DEPOR TV</title>
+			<creator>DEPORTE</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/DeporTV.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>62</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1151425</location>
+			<title> SKY SPORTS</title>
+			<creator>DEPORTE</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Sky Sport.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>63</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1156008</location>
+			<title> AYM SPORTS</title>
+			<creator>DEPORTE</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Aym Sport.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>64</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1156009</location>
+			<title> GOL TV HD</title>
+			<creator>DEPORTE</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Gol Tv.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>65</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1156010</location>
+			<title> UNIVISION TUDN USA</title>
+			<creator>DEPORTE</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Tudn HD.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>66</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/4117</location>
+			<title> UNIVISION TUDN HD</title>
+			<creator>DEPORTE</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Tudn.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>67</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/29832</location>
+			<title> TIGO SPORTS HD PARAGUAY</title>
+			<creator>DEPOPRTE</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Tico Sport.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>68</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/53372</location>
+			<title> UFC LIVE HD</title>
+			<creator>DEPORTE</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/UFC Live.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>69</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/12011</location>
+			<title> CLARO SPORTS HD</title>
+			<creator>DEPORTE</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Claro Sport.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>70</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/4139</location>
+			<title> TVC DEPORTES</title>
+			<creator>DEPORTE</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/TVC Deportes.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>71</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/33363</location>
+			<title> GOLF LATIN AMERICA</title>
+			<creator>DEPORTE</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Golf Latin America.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>72</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1158436</location>
+			<title> VIX LIGA MEXICO</title>
+			<creator>DEPORTE</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/VIxLiga Mexico.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>73</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/49525</location>
+			<title> AMERICA SPORTS</title>
+			<creator>DEPORTE</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/America Sport.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>74</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/138192</location>
+			<title> ESPN EXTRA MEXICO</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>75</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/145425</location>
+			<title> ESPN 2 HD MEXICO</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>76</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/145426</location>
+			<title> ESPN 3 HD MEXICO</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>77</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/145427</location>
+			<title> ESPN 4 HD MEXICO</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>78</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/145422</location>
+			<title> ESPN HD CHILE</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>79</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/145423</location>
+			<title> ESPN 1 HD COLOMBIA</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>80</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/145424</location>
+			<title> ESPN 2 HD COLOMBIA</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>81</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/148989</location>
+			<title> ESPN HD USA</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>82</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/151111</location>
+			<title> ESPN EXTRA HD BRASIL</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>83</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/151112</location>
+			<title> ESPN 2 HD BRASIL</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>84</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/126276</location>
+			<title> MOVISTAR FORMULA 1 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>85</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/132289</location>
+			<title> MOVISTAR DEPORTES</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>86</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/145406</location>
+			<title> BEIN SPORTS EXTRA   </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>87</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/145407</location>
+			<title> FOX SPORTS 2 COLOMBIA</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>88</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/145409</location>
+			<title> FOX SPORTS 3 COLOMBIA</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>89</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/145408</location>
+			<title> BEIN SPORTS 1 HD</title>
+			<creator>DEPORTE</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/BEIN 1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>90</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/134106</location>
+			<title> BEIN SPORTS HD</title>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/BEIN SPORT HD.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>91</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/134107</location>
+			<title> BEIN SPORTS 12</title>
+			<creator>DEPORTES</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/BEIN 3.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>92</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/159778</location>
+			<title> BEIN SPORT XTRA</title>
+			<creator>DEPORTE</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/BEIN EXTRA.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>93</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/162486</location>
+			<title> BRIN SPORT 2 HD</title>
+			<creator>DEPORTE</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/BEIN 2.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>94</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/3309</location>
+			<title> DIRECTV SPORTS CHILE</title>
+			<creator>DEPORTE</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/DIRECTV CHILE.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>95</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/132282</location>
+			<title> DIRECTV SPORTS COLOMBIA</title>
+			<creator>DEPORTE</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/DIRECTV COLOMBIA.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>96</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/132283</location>
+			<title> DIRECTV SPORTS 2 COLOMBIA</title>
+			<creator>DEPORTE</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/DIRETV2 COLO.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>97</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/135642</location>
+			<title> DIRECTV SPORTS ARGENTINA</title>
+			<creator>DEPORTE</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/DIRETV ARG.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>98</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/135643</location>
+			<title> DIRECTV SPORTS 2 ARGENTINA</title>
+			<creator>DEPORTE</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/DIRECTV 2 ARG.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>99</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/135644</location>
+			<title> DIRECTV SPORTS + ARGENTINA</title>
+			<creator>DEPORTE</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/DIRECTV MAS ARG.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>100</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/145400</location>
+			<title> DIRECTV SPORTS HD ARGENTINA</title>
+			<creator>DEPORTE</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/DIRECTV HD.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>101</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/145401</location>
+			<title> DIRECTV SPORTS HD COLOMBIA</title>
+			<creator>DEPORTE</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/DIRECTV COLO2.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>102</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/145402</location>
+			<title> DIRECTV SPORTS 2 HD</title>
+			<creator>DEPORTE</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/DIRECTV HD 2.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>103</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/145403</location>
+			<title> DIRECTV SPORTS + HD</title>
+			<creator>DEPORTE</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/DIRECTV SPORT MAS HD.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>104</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/145496</location>
+			<title> DIRECTV ECUADOR</title>
+			<creator>DEPORTE</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/DIRECTV ECUADOR.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>105</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/149988</location>
+			<title> ON DIRECTV 1 UHD </title>
+			<creator>DEPORTE</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/ONDIRECTV.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>106</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/149989</location>
+			<title> ON DIRECTV UHD ARGENTINA</title>
+			<creator>DEPORTE</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/DIRECTV 4K.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>107</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/4349</location>
+			<title> EUROSPORT 1</title>
+			<creator>DEPORTE</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/EUROSPORT 1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>108</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/4351</location>
+			<title> EUROSPORT 2</title>
+			<creator>DEPORTE</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/EUROSPORT 2.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>109</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/4352</location>
+			<title> EUROSPORT 3</title>
+			<creator>DEPORTE</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/EUROSPORT 3.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>110</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/4348</location>
+			<title> EUROSPORT EXTRA</title>
+			<creator>DEPORTE</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/EUROSPOTR EXTRA.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>111</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/4350</location>
+			<title> EUROSPORT FULL FHD</title>
+			<creator>DEPORTE</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/EUROSPORT FIULL.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>112</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1155867</location>
+			<title> E! ENTERTAINMENT HD</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/ENTRETAIMENT.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>113</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/4016</location>
+			<title> EL GARAGE TV</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/El Garage.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>114</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/4146</location>
+			<title> FOOD NETWORK</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Food Netwoork.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>115</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/4057</location>
+			<title> FOOD NETWORK USA</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/FOOD NET.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>116</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/47698</location>
+			<title> BITME</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Bitme.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>117</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1155868</location>
+			<title> EL GOURNET HD</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/El gourmet.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>118</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1155872</location>
+			<title> COMEDY CENTRAL HD</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Comedy Central.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>119</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1155873</location>
+			<title> LIFETIME HD</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Life time.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>120</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1155879</location>
+			<title> TRU TV</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/trutv.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>121</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1153332</location>
+			<title> COCINA</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Cocina tv.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>122</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1155874</location>
+			<title> HOLA TV HD</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Hola Tv.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>123</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/4134</location>
+			<title> WOBI</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Wovi.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>124</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/4040</location>
+			<title> DISTRITO COMEDIA</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Distrito Comedia.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>125</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/4047</location>
+			<title>MAS CHIC FHD</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Mas Chic.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>126</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://elmonkey.us:25461/john/1234/20</location>
+			<title> AXN WHITE</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/AXN White.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>127</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://elmonkey.us:25461/john/1234/66</location>
+			<title> ESTRELLA TV</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Estrella Tv.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>128</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://elmonkey.us:25461/john/1234/81</location>
+			<title> FXM</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/FXM.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>129</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://elmonkey.us:25461/john/1234/83</location>
+			<title> GLITZ</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Glitz.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>130</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://elmonkey.us:25461/john/1234/108</location>
+			<title> PASIONES</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Pasiones.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>131</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://elmonkey.us:25461/john/1234/109</location>
+			<title> RCN</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/RCN Nuestra Tela.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>132</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://panel.dattalive.com:443/8012/8012/playlist.m3u8?PlaylistM3UCL</location>
+			<title> TELE CREATIVA</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Telecreativa.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>133</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://cdnhd.iblups.com/hls/DD3nXkAkWk.m3u8</location>
+			<title> URBANA TV</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Urbana TV.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>134</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8</location>
+			<title> CANAL IBERO AMERICANO</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Ibero Americana.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>135</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://unlimited1-us.dps.live/televidaar/televidaar.smil/playlist.m3u8</location>
+			<title> TELE VIDA</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/TELEVIDA.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>136</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://ythls.onrender.com/channel/UCvCTWHCbBC0b9UIeLeNs8ug.m3u8?PlaylistM3UCL</location>
+			<title> VOSTERIX</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Vosterix.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>137</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://panel.dattalive.com:443/8128_1/8128_1/playlist.m3u8?PlaylistM3UCL</location>
+			<title> LINK TV</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Link Tv.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>138</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://stream.arcast.com.ar/atbargentina/atbargentina/playlist.m3u8?PlaylistM3UCL</location>
+			<title> ATV ARGENTINA</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/ATV Argentina.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>139</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8?PlaylistM3UCL</location>
+			<title> TEC TV</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Tec Tv.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>140</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8</location>
+			<title> POWER HD</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Power hd.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>141</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://streamconex.com:1936/canalxfn/canalxfn/playlist.m3u8?PlaylistM3UCL</location>
+			<title> FXN</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Fx.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>142</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8?PlaylistM3UCL</location>
+			<title> LITUS TV</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/litus Tv.jpg</image>
+			<duration>12000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>143</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8?</location>
+			<title> MILENNIO</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Milennio Tv.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>144</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://stmvideo1.livecastv.com/fenixlarioja/fenixlarioja/playlist.m3u8?PlaylistM3UCL</location>
+			<title> FENIX</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Fenix Tv.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>145</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8?PlaylistM3UCL</location>
+			<title> TELEMAX</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Telemax Tv.jpg</image>
+			<duration>28000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>146</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8?PlaylistM3UCL</location>
+			<title> CIUDAD TV</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Ciudad Tv.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>147</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8</location>
+			<title> VTV</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Vtv.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>148</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8</location>
+			<title> UNI TV</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Uni Tv.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>149</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8</location>
+			<title> PLATZI TV</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Plazi.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>150</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://vivo.solumedia.com:19360/playtv/playtv.m3u8?PlaylistM3UCL</location>
+			<title> PLAY TELEVISION</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/PLAY TV.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>151</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.ienlace-tv.com:1935/live11/livestream1.sdp/playlist.m3u8</location>
+			<title> BOOMERANG</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/BOOMERANG.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>152</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1155797</location>
+			<title> ANIMAL PLANET </title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Animal Planet.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>153</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/2799</location>
+			<title> NATGEO</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Nat Gio.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>154</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/4097</location>
+			<title> NAT GEO PLUS</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Estrella Tv.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>155</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/4123</location>
+			<title> DISCOVERY ID </title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/ID.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>156</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1155807</location>
+			<title> DISCOVERY CHANNEL </title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/CHAN.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>157</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1155812</location>
+			<title> DISCOVERY WORLD</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/WORD.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>158</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1155816</location>
+			<title> DISCOVERY HOME &amp; HEALTH </title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/HYH.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>159</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/4070</location>
+			<title> DISCOVERY HOME </title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/HOME.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>160</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1155818</location>
+			<title> DISCOVERY SCIENCE </title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/SCI.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>161</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/4119</location>
+			<title> DISCOVERY THEATER</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/THET.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>162</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1155820</location>
+			<title> DISCOVERY TLC </title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/TLC.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>163</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://elmonkey.us:25461/john/1234/45</location>
+			<title> DISCOVERY FAMILIA</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/FAMIL.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>164</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1155804</location>
+			<title> HISTORY HD </title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/History.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>165</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/4005</location>
+			<title> HISTORY 2 </title>
+			<creator>ENTRETENIMIENTO </creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/History 2.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>166</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1155802</location>
+			<title> RT ESPAÑOL </title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/RT ESPAÑOL.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>167</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1155821</location>
+			<title> DW EN ESPANOL </title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/DW ESPAÑOL.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>168</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1155823</location>
+			<title> HGTV HD </title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/HGtv.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>169</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://elmonkey.us:25461/john/1234/249</location>
+			<title> CGTN ESPANOL</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/cgtn español.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>170</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/3966</location>
+			<title> FILM &amp; ARTS</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Film And Art.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>171</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8?PlaylistM3UCL</location>
+			<title> TEC TV</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Tec Tv.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>172</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/33481</location>
+			<title> HISPAN TV </title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Hispan Tv.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>173</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8</location>
+			<title> EXTREMA ANIMAL</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/EXTERME ANIMAL.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>174</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8</location>
+			<title> FASHION TV</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Fashion Tv.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>175</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?advertisingId=&amp;appName=web&amp;appVersion=unknown&amp;appStoreUrl=&amp;architecture=&amp;buildVersion=&amp;clientTime=0&amp;deviceDNT=0&amp;deviceId=bff16000-6307-11eb-b3fa-019cb96f121b&amp;deviceMake=Chrome&amp;deviceModel=web&amp;deviceType=web&amp;deviceVersion=unknown&amp;includeExtendedEvents=false&amp;sid=d26f2f3a-e8be-493e-9e88-d9c8f6a4b80c&amp;userId=&amp;serverSideAds=true</location>
+			<title> NATURALEZA</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Naturaleza tv.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>176</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8</location>
+			<title> EXTREMA</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Extrema TV.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>177</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/3548</location>
+			<title> QUIERO MUSICA</title>
+			<creator>MUSICA</creator>
+			<image>file:///C:/Users/maugo/Downloads/quiero.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>178</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/3552</location>
+			<title> CANAL DE LA MUSICA</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/CM.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>179</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/23236</location>
+			<title> CONCERT CHANNEL</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/CONCERT.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>180</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/2088</location>
+			<title> MUCH MUSIC</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/MUCH MUSIC.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>181</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/4133</location>
+			<title> MTV CLASSIC</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/MTV CLASSIC.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>182</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1156057</location>
+			<title> MTV HITS</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/MTV HIT.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>183</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/4083</location>
+			<title> MTV FHD</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/MTVHD.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>184</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/131317</location>
+			<title>MTV LIVE HD USA</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/MTV LIVE.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>185</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL</location>
+			<title> MUSICA TOP</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/MUSIC TOP.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>186</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?</location>
+			<title> RETRO PLUS</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/RTERO.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>187</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1156056</location>
+			<title> BANDAMAX</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/BANDAMAX.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>188</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1156061</location>
+			<title> TELEHIT LATINO</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/HIT LATINO.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>189</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/3960</location>
+			<title> TELEHIT URBANO</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/THURBANO.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>190</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/51395</location>
+			<title> HTV</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/HTV.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>191</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/3173</location>
+			<title> MUCH MUSIC 90&#39;s</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/90O.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>192</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/3174</location>
+			<title> VEVO 4K Hits</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/VEVO.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>193</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/3175</location>
+			<title>VEVO 70&#39;s Hits</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/VEVO 70.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>194</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/3176</location>
+			<title> VEVO 80&#39;s Hits</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/VEVE80.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>195</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/3177</location>
+			<title>NOW ROCK</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/NOW ROCK.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>196</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/3178</location>
+			<title>Service</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/COUNTRY.jpg</image>
+			<duration>25000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>197</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/3179</location>
+			<title> VEVO R&amp;B HITS</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/RYB.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>198</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/3180</location>
+			<title> VEVO ONLY HITS</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/VEVO HIT.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>199</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/3181</location>
+			<title> VEVO HIPHIOP HITS</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/HIPHOP.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>200</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/3182</location>
+			<title> VEVO LATINOS HITS</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/LATINO.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>201</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://stream.arcast.live/quatro/quatro/playlist.m3u8?PlaylistM3UCL</location>
+			<title>CUATRO TV RIO CUARTO</title>
+			<creator>INTERIOR</creator>
+			<image>file:///C:/Users/maugo/Downloads/4 TV CORDOBA.jpg</image>
+			<duration>7000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>202</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8</location>
+			<title> TELE RITMO</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/TELE RITMO.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>203</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://vivo.solumedia.com:19360/masfm/masfm.m3u8?PlaylistM3UCL</location>
+			<title> MAS FM</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/MASFM.jpg</image>
+			<duration>40000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>204</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8</location>
+			<title> BEAST RADIO</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/BEAT.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>205</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8</location>
+			<title> ESPORT MAX</title>
+			<creator>ENTRETENIMIENTO</creator>
+			<image>file:///C:/Users/maugo/Downloads/ESPORTMAX.png</image>
+			<duration>47000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>206</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/4112</location>
+			<title> HBO</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>207</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/4095</location>
+			<title> HBO 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>208</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/4109</location>
+			<title> HBO PLUS+</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>209</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/8226</location>
+			<title> HBO XTREME</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>210</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/8246</location>
+			<title> HBO POP</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>211</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/4017</location>
+			<title> HBO FAMILY </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>212</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/44341</location>
+			<title> HBO XTREME</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>213</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1143815</location>
+			<title> HBO MUNDI</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>214</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1155796</location>
+			<title> HBO SIGNATURE</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>215</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1156005</location>
+			<title> UNIVERSAL CHANNEL</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>216</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://160.20.165.245:8000/play/a01d/index.m3u8</location>
+			<title> UNIVERSAL CHANNEL 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>217</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1119200</location>
+			<title> UNIVERSAL CRIME</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>218</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1119204</location>
+			<title> UNIVERSAL PREMIER</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>219</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1119202</location>
+			<title> UNIVERSAL COMEDY</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>220</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1119206</location>
+			<title> UNIVERSAL CINEMA</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>221</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1119205</location>
+			<title> UNIVERSAL REALITY</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>222</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/4100</location>
+			<title> UNIVERSAL STUDIO</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>223</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1155790</location>
+			<title> GOLDEN</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>224</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1155791</location>
+			<title> GOLDEN EDGE</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>225</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1148196</location>
+			<title> GOLDEN PREMIERE</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>226</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1148844</location>
+			<title> GOLDEN PREMIERE 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>227</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/4010</location>
+			<title> TNT</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>228</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1156004</location>
+			<title> TNT SERIES</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>229</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1155799</location>
+			<title> PARAMOUNT</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>230</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1143816</location>
+			<title> SONY MOVIES</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>231</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/4110</location>
+			<title> CINEMAX</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>232</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/4068</location>
+			<title> CINECANAL</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>233</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/4098</location>
+			<title> ISAT CINE FHD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>234</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/4121</location>
+			<title> STAR CHANNEL PLUS+</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>235</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/4099</location>
+			<title> SPACE FHD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>236</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1155808</location>
+			<title> WARNER</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>237</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1156013</location>
+			<title> CINE A&amp;E</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>238</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://elmonkey.us:25461/john/1234/112</location>
+			<title> SONY</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>239</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1155784</location>
+			<title> AXN.</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>240</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://elmonkey.us:25461/john/1234/20</location>
+			<title> AXN WHITE</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>241</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1155789</location>
+			<title> FX</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>242</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://elmonkey.us:25461/john/1234/81</location>
+			<title> FXM</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>243</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/4943</location>
+			<title> SYFI </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>244</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/4118</location>
+			<title> AMC CINE</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>245</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/4101</location>
+			<title> SUNDANCE TV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>246</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/7436</location>
+			<title> PANICO TV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>247</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/33364</location>
+			<title> MORBID TV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>248</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1155806</location>
+			<title> TCM CINE</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>249</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/24180</location>
+			<title> DHE CINE</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>250</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1148845</location>
+			<title> SEO PELICULAS</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>251</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1155786</location>
+			<title> PELICULA</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>252</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1155788</location>
+			<title> PELICULA PLUS</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>253</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/4011</location>
+			<title> CINE TBS</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>254</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1156760</location>
+			<title> CINE FAMILIA</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>255</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL</location>
+			<title> CINE AR</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>256</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?PlaylistM3UCL</location>
+			<title> COSMOS TV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>257</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://spi-filmstream-1-nl.samsung.wurl.tv/playlist.m3u8</location>
+			<title> FILM EXTREME</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>258</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8</location>
+			<title> NEO TV DIGITAL</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>259</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/4142</location>
+			<title> CINEMA DINAMITA</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>260</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/4136</location>
+			<title> CINE LATINO</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>261</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1155781</location>
+			<title> CINE KIDS</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>262</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/4145</location>
+			<title> CLARO CINEMA</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>263</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1147993</location>
+			<title> CINEMA CIENCIA FICCION</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>264</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1155106</location>
+			<title> CINEMA CLASSIC HORROR</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>265</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1156006</location>
+			<title> CINEMA TERROR </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>266</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1156007</location>
+			<title> CINEMA ACCION</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>267</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1148843</location>
+			<title> CINEMA MANIA</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>268</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/33359</location>
+			<title> EUROPA EUROPA</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>269</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://elmonkey.us:25461/john/1234/40</location>
+			<title> COMEDY CENTRAL</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>270</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/8142</location>
+			<title> INDIE PLEX</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>271</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/8134</location>
+			<title> STARZ WESTERN HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>272</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/8143</location>
+			<title> MORE MAX HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>273</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/8144</location>
+			<title> MOVIE MAX</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>274</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/8145</location>
+			<title> MOVIEPLEX</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>275</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/8146</location>
+			<title>OUTERMAX HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>276</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/8147</location>
+			<title> RETROPLEX HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>277</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/8141</location>
+			<title> SHOTIME WEST HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>278</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/8138</location>
+			<title> SHOW TIME HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>279</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/8139</location>
+			<title> SHOWTIME BEYOND HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>280</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/8140</location>
+			<title> SHOWTIME EAST</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>281</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/8136</location>
+			<title> STARZ CINEMA HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>282</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/8135</location>
+			<title> STARZ COMEDY HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>283</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/8128</location>
+			<title> STARZ ENCORE ACTION HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>284</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/8127</location>
+			<title> STARZ ENCORE BLACK</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>285</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/8137</location>
+			<title> STARZ IN BLACK</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>286</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/8133</location>
+			<title> STARZ KIDS &amp; FAMILY</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>287</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1071996</location>
+			<title> BLOOMBERG FHD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>288</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://elmonkey.us:25461/john/1234/69</location>
+			<title> FOX</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>289</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/8255</location>
+			<title> FOX NEWS</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>290</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/153595</location>
+			<title> DHE HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>291</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/3032</location>
+			<title> STAR TVE HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>292</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/3034</location>
+			<title> CANAL U </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>293</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/4004</location>
+			<title> DISNEY CHANNEL</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>294</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/3798</location>
+			<title> BABY TV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>295</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/4194</location>
+			<title> NICK JUNIOR</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>296</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8</location>
+			<title> CARTOON NETWORK 1</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>297</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8</location>
+			<title> CARTOON NETWORK 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>298</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1155850</location>
+			<title> CARTOON NETWORK 3</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>299</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/4063</location>
+			<title> CARTOON NETWORK 4</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>300</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1155851</location>
+			<title> DISCOVERY KIDS </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>301</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/132323</location>
+			<title> ZOOMO </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>302</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://00322.xyz:8000/rances123/9IFBBCRBIX/132324</location>
+			<title> NATGEO KIDS</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>303</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://vplay.club:8080/luis00/luis00/462846</location>
+			<title> DISNEY JR</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>304</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/4058</location>
+			<title> NICKELODEON 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>305</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1155861</location>
+			<title> TOONCAST</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>306</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8</location>
+			<title> CARBONCITO</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>307</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL</location>
+			<title> PAKA PAKA</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>308</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8?PlaylistM3UCL</location>
+			<title> LATINO KIDS</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>309</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://magicstream.ddns.net:443/magicstream/stream.m3u8?PlaylistM3UCL</location>
+			<title> MAGIC KIDS</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>310</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL</location>
+			<title> LOCOMOTION</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>311</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8</location>
+			<title> PEQUE TV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>312</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://6362ca6f1fc28.streamlock.net:443/8066/8066/playlist.m3u8?PlaylistM3UCL</location>
+			<title> VARIE TV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>313</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8?PlaylistM3UCL</location>
+			<title> RETRO MAGICO</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>314</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8?PlaylistM3UCL</location>
+			<title> BLU HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>315</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://inliveserver.com:1936/14056/14056/playlist.m3u8?PlaylistM3UCL</location>
+			<title> GEN TV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>316</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://5d8d85cf2c308.streamlock.net:1936/CanalLuz/enDirecto/playlist.m3u8</location>
+			<title> CANAL LUZ</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>317</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8</location>
+			<title> EWTN </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>318</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8?PlaylistM3UCL</location>
+			<title> ORBE 21 </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>319</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://5f700d5b2c46f.streamlock.net:443/sublime/sublime/playlist.m3u8?PlaylistM3UCL</location>
+			<title> SUBLIME GARCIA</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>320</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://canadaremar2.todostreaming.es/live/argentina-web.m3u8?PlaylistM3UCL</location>
+			<title> SOLIDARIA</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>321</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://w2.manasat.com:443/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8?PlaylistM3UCL</location>
+			<title> MANA</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>322</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://11554-1.b.cdn13.com/EnlaceTV/smil:enlace-hd.smil/playlist.m3u8</location>
+			<title> ENLACE</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>323</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8</location>
+			<title> NUEVO TIEMPO</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>324</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://v4.tustreaming.cl/restaurandovida/index.m3u8</location>
+			<title> RESTAURANDO VIDAS</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>325</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8</location>
+			<title> DIOS TE VE</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>326</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://elmonkey.us:25461/john/1234/33</location>
+			<title>CANAL DE LAS ESTRELLAS</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>327</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/7423</location>
+			<title> PARAGUAY TV PARAGUAY</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>328</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/9842</location>
+			<title> CUBAVISION INTERNACIONAL CUBA</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>329</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/51393</location>
+			<title> GUATEVISION GUATEMALA</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>330</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/54732</location>
+			<title> BOLIVIA TV BOLIVIA</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>331</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/51385</location>
+			<title> TELECANDENA HONDURA</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>332</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/5478</location>
+			<title> WOW TV EL SALVADOR</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>333</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/18600</location>
+			<title> GLOBOVISION VENEZUELA</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>334</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/8244</location>
+			<title> TELECENTRO REPÚBLICA DOMINICANA</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>335</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/53495</location>
+			<title> TELEMETRO CANAL 13 PANAMA</title>
+			<creator>INTERNACIONAL</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/TELEMETRO.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>336</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1155805</location>
+			<title> CABLE NOTICIAS COLOMBIA</title>
+			<creator>INTERNACIONAL</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/COLOMBIA.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>337</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1156212</location>
+			<title> TELE 12 URUGUAY</title>
+			<creator>INTERNACIONAL</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/TELE DOCE.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>338</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1141627</location>
+			<title> ZONA LATINA CHILE</title>
+			<creator>INTERNACIONAL</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/ZONA LATINA.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>339</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/7772</location>
+			<title> GLOBO HD BRASIL</title>
+			<creator>INTERNACIONAL</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/GLOBO TV BRASIL.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>340</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/33360</location>
+			<title> CNN USA EEUU</title>
+			<creator>INTERNACIONAL</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/CNN USA.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>341</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1092265</location>
+			<title> TSN  CANADA</title>
+			<creator>INTERNACIONAL</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/TSN CANADA.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>342</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8</location>
+			<title>ANDROIDTV COREA</title>
+			<creator>INTERNACIONAL</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/ARIRANG.jpg</image>
+			<duration>6000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>343</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8</location>
+			<title> RETRO BRASIL</title>
+			<creator>INTERNACIONAL</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/RETRO BRASIL.jpg</image>
+			<duration>15000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>344</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8</location>
+			<title> VIPTV GUATEMALA</title>
+			<creator>INTERNACIONL</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/VIP.jpg</image>
+			<duration>7000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>345</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://162.246.18.122:8081/telepuerto-master/ucl-abr/playlist.m3u8</location>
+			<title> UCL GLOBAL</title>
+			<creator>INTERNACIONAL</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/UCL GLOBAL.jpg</image>
+			<duration>24000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>346</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://livees.cgtn.com/1000e/prog_index.m3u8</location>
+			<title> CGTN ESPAÑOL</title>
+			<creator>INTERNACIONAL</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/CGTN ESPAÑOL.png</image>
+			<duration>60000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>347</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8</location>
+			<title> FRANCE 24 ESPAÑOL</title>
+			<creator>INTERNACIONAL</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/FRANCE 24.png</image>
+			<duration>16000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>348</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1142543</location>
+			<title> AMAZON PRIME HD FRANCE</title>
+			<creator>INTERNACIONAL</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/AMAZON FRANCE.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>349</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/53778</location>
+			<title> RAI 1 ITALY</title>
+			<creator>INTERNACIONAL</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/RAI.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>350</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://tv.fullytv.com:8080/silvia90/90929092/1072124</location>
+			<title> SIC NOTICIAS EUROPA </title>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/SIC NOTICIAS.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>351</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://america-crtvg.flumotion.com/playlist.m3u8</location>
+			<title> GALICIA TV AMERICA</title>
+			<creator>INTERNACIONAL</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/GALICIA TV.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>352</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://live1.presstv.ir/live/hispan.m3u8</location>
+			<title> HISPAN TV</title>
+			<creator>INTERNACIONAL</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Hispan Tv.jpg</image>
+			<duration>80000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>353</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://rt-esp.rttv.com/live/rtesp/playlist.m3u8</location>
+			<title> RT EN ESPAÑOL</title>
+			<creator>INTERNACIONAL</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/RT ESPAÑOL.png</image>
+			<duration>20000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>354</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8</location>
+			<title> DW EN ESPAÑOL</title>
+			<creator>INTERNACIONAL</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/DW ESPAÑOL.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>355</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8?PlaylistM3UCL</location>
+			<title> AMX NOTICIA MEXICO</title>
+			<creator>INTERNACIONAL</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/AMX NOTICIAS.jpg</image>
+			<duration>30000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>356</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8</location>
+			<title> BHTV PERU</title>
+			<creator>INTERNACIONAL</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/BHTTV PERU.png</image>
+			<duration>29000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>357</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8</location>
+			<title> EURO NEWS</title>
+			<creator>INTERNACIONAL</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/EUROZONE.jpg</image>
+			<duration>30000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>358</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://rds3.desdeparaguay.net:443/tvs/tvs/chunklist_w190074850.m3u8?k=4d562eb979eb58bf2c1f0ab405de1e73e700e595ecadf287126338402989b011&amp;exp=1623594212</location>
+			<title> TVS TV PÁRAGUAY</title>
+			<creator>INTERNACIONAL</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/TVS TV PAARAGUAY.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>359</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8?PlaylistM3UCL</location>
+			<title> TDC FIRMAT</title>
+			<creator>INTERIOR</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/Tdc Firmat.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>360</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://sc1.stweb.tv/airedigital/live/playlist.m3u8?PlaylistM3UCL</location>
+			<title> AIRE TV SANTA FE</title>
+			<creator>INTERIOR</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/CANAL AIRE SANTA FE.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>361</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8?PlaylistM3UCL</location>
+			<title> CANAL 2 TELEPHIN</title>
+			<creator>INTERIOR</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/CANAL 2 TELEPHIM.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>362</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8</location>
+			<title> Canal 2 Misiones</title>
+			<creator>INTERIOR</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/CANAL 6 POSADAS.jpg</image>
+			<duration>48000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>363</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8?PlaylistM3UCL</location>
+			<title> CANAL 2 JUJUY</title>
+			<creator>INTERIOR</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/CANAL 2 JUJUY.png</image>
+			<duration>29000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>364</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8?PlaylistM3UCL</location>
+			<title> CANAL 2 TV2 SALTA</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>365</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://stmvideo2.livecastv.com/agenfor/agenfor/playlist.m3u8?PlaylistM3UCL</location>
+			<title> CANAL 3 FORMOSA</title>
+			<creator>INTERIOR</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/CANAL 6 POSADAS.jpg</image>
+			<duration>30000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>366</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://intelincloud.com.ar/canales/canal3pinamar/index.m3u8?PlaylistM3UCL</location>
+			<title> CANAL 3 PINAMAR</title>
+			<creator>INTERIOR</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/CANAL 3 PINAMAR.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>367</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.ixfo.com.ar:8081/live/C4POS/playlist.m3u8?PlaylistM3UCL</location>
+			<title> CANAL 4 POSADAS MISIONES</title>
+			<creator>INTERIOR</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/CANAL 4 POSADAS MISIONES.png</image>
+			<duration>24000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>368</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8?PlaylistM3UCL</location>
+			<title> CANAL 4 BALCARCE</title>
+			<creator>INTERIOR</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/CANAL 4 BALCARCE.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>369</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8?PlaylistM3UCL</location>
+			<title> CANAL 4 SAN JUAN</title>
+			<creator>INTERIOR</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/CNAL 4 SAN JUAN.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>370</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://vivo.solumedia.com:19360/bvconline/bvconline.m3u8?PlaylistM3UCL</location>
+			<title> CANAL 4 BAHIA BLANCA</title>
+			<creator>INTERIOR</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/CANAL 4 BAHIA BLANCA.png</image>
+			<duration>11990</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>371</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/playlist.m3u8?PlaylistM3UCL</location>
+			<title> CANAL 4 JUJUY</title>
+			<creator>INTERIOR</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/CANAL 4 JUJUY.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>372</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://streaming.arcast.com.ar:1935/canal4esquel/canal4esquel/chunklist_w283167105.m3u8</location>
+			<title> CANAL 4 ESQUEL</title>
+			<creator>INTERIOR</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/CANAL 4 ESQUEL.png</image>
+			<duration>28000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>373</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8</location>
+			<title> CANAL 5 TV CORRIENTES</title>
+			<creator>INTERIOR</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/CANAL 5 TV CORRIENTES.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>374</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL</location>
+			<title> CANAL 5 TIGRE BUENOS AIRES</title>
+			<creator>INTERIOR</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/CANAL 5 TIGRE.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>375</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://tv.t5satelital.com/tvhls/streamcorrientes.m3u8?PlaylistM3UCL</location>
+			<title> CANAL 5 T5 SATELITAL </title>
+			<creator>INTERIOR</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/CANAL T5SSATELITAL.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>376</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://streaming.arcast.com.ar:1935/canal5picotruncado/canal5picotruncado/playlist.m3u8?PlaylistM3UCL</location>
+			<title> CANAL 5 PICO TRUNCADO</title>
+			<creator>INTERIOR</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/CANAL 5 PICO TRUNCADO.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>377</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://stmvideo1.livecastv.com/canal6er/canal6er/playlist.m3u8?PlaylistM3UCL</location>
+			<title> CANAL 6 ENTRE RIOS</title>
+			<creator>INTERIOR</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/CANAL 6 ENTRE RIOS.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>378</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://panel.dattalive.com:443/8166/8166/playlist.m3u8?PlaylistM3UCL</location>
+			<title> CANAL 6 MAR DEL PLATA</title>
+			<creator>INTERIOR</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/CANAL6 MAR DEL PLATA.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>379</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8?PlaylistM3UCL</location>
+			<title> CANAL 6 POSADAS MISIONES</title>
+			<creator>INTERIOR</creator>
+			<image>file:///C:/Users/maugo/Downloads/Logos Tv/CANAL 6 POSADAS.jpg</image>
+			<duration>24000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>380</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+		<vlc:item tid="23"/>
+		<vlc:item tid="24"/>
+		<vlc:item tid="25"/>
+		<vlc:item tid="26"/>
+		<vlc:item tid="27"/>
+		<vlc:item tid="28"/>
+		<vlc:item tid="29"/>
+		<vlc:item tid="30"/>
+		<vlc:item tid="31"/>
+		<vlc:item tid="32"/>
+		<vlc:item tid="33"/>
+		<vlc:item tid="34"/>
+		<vlc:item tid="35"/>
+		<vlc:item tid="36"/>
+		<vlc:item tid="37"/>
+		<vlc:item tid="38"/>
+		<vlc:item tid="39"/>
+		<vlc:item tid="40"/>
+		<vlc:item tid="41"/>
+		<vlc:item tid="42"/>
+		<vlc:item tid="43"/>
+		<vlc:item tid="44"/>
+		<vlc:item tid="45"/>
+		<vlc:item tid="46"/>
+		<vlc:item tid="47"/>
+		<vlc:item tid="48"/>
+		<vlc:item tid="49"/>
+		<vlc:item tid="50"/>
+		<vlc:item tid="51"/>
+		<vlc:item tid="52"/>
+		<vlc:item tid="53"/>
+		<vlc:item tid="54"/>
+		<vlc:item tid="55"/>
+		<vlc:item tid="56"/>
+		<vlc:item tid="57"/>
+		<vlc:item tid="58"/>
+		<vlc:item tid="59"/>
+		<vlc:item tid="60"/>
+		<vlc:item tid="61"/>
+		<vlc:item tid="62"/>
+		<vlc:item tid="63"/>
+		<vlc:item tid="64"/>
+		<vlc:item tid="65"/>
+		<vlc:item tid="66"/>
+		<vlc:item tid="67"/>
+		<vlc:item tid="68"/>
+		<vlc:item tid="69"/>
+		<vlc:item tid="70"/>
+		<vlc:item tid="71"/>
+		<vlc:item tid="72"/>
+		<vlc:item tid="73"/>
+		<vlc:item tid="74"/>
+		<vlc:item tid="75"/>
+		<vlc:item tid="76"/>
+		<vlc:item tid="77"/>
+		<vlc:item tid="78"/>
+		<vlc:item tid="79"/>
+		<vlc:item tid="80"/>
+		<vlc:item tid="81"/>
+		<vlc:item tid="82"/>
+		<vlc:item tid="83"/>
+		<vlc:item tid="84"/>
+		<vlc:item tid="85"/>
+		<vlc:item tid="86"/>
+		<vlc:item tid="87"/>
+		<vlc:item tid="88"/>
+		<vlc:item tid="89"/>
+		<vlc:item tid="90"/>
+		<vlc:item tid="91"/>
+		<vlc:item tid="92"/>
+		<vlc:item tid="93"/>
+		<vlc:item tid="94"/>
+		<vlc:item tid="95"/>
+		<vlc:item tid="96"/>
+		<vlc:item tid="97"/>
+		<vlc:item tid="98"/>
+		<vlc:item tid="99"/>
+		<vlc:item tid="100"/>
+		<vlc:item tid="101"/>
+		<vlc:item tid="102"/>
+		<vlc:item tid="103"/>
+		<vlc:item tid="104"/>
+		<vlc:item tid="105"/>
+		<vlc:item tid="106"/>
+		<vlc:item tid="107"/>
+		<vlc:item tid="108"/>
+		<vlc:item tid="109"/>
+		<vlc:item tid="110"/>
+		<vlc:item tid="111"/>
+		<vlc:item tid="112"/>
+		<vlc:item tid="113"/>
+		<vlc:item tid="114"/>
+		<vlc:item tid="115"/>
+		<vlc:item tid="116"/>
+		<vlc:item tid="117"/>
+		<vlc:item tid="118"/>
+		<vlc:item tid="119"/>
+		<vlc:item tid="120"/>
+		<vlc:item tid="121"/>
+		<vlc:item tid="122"/>
+		<vlc:item tid="123"/>
+		<vlc:item tid="124"/>
+		<vlc:item tid="125"/>
+		<vlc:item tid="126"/>
+		<vlc:item tid="127"/>
+		<vlc:item tid="128"/>
+		<vlc:item tid="129"/>
+		<vlc:item tid="130"/>
+		<vlc:item tid="131"/>
+		<vlc:item tid="132"/>
+		<vlc:item tid="133"/>
+		<vlc:item tid="134"/>
+		<vlc:item tid="135"/>
+		<vlc:item tid="136"/>
+		<vlc:item tid="137"/>
+		<vlc:item tid="138"/>
+		<vlc:item tid="139"/>
+		<vlc:item tid="140"/>
+		<vlc:item tid="141"/>
+		<vlc:item tid="142"/>
+		<vlc:item tid="143"/>
+		<vlc:item tid="144"/>
+		<vlc:item tid="145"/>
+		<vlc:item tid="146"/>
+		<vlc:item tid="147"/>
+		<vlc:item tid="148"/>
+		<vlc:item tid="149"/>
+		<vlc:item tid="150"/>
+		<vlc:item tid="151"/>
+		<vlc:item tid="152"/>
+		<vlc:item tid="153"/>
+		<vlc:item tid="154"/>
+		<vlc:item tid="155"/>
+		<vlc:item tid="156"/>
+		<vlc:item tid="157"/>
+		<vlc:item tid="158"/>
+		<vlc:item tid="159"/>
+		<vlc:item tid="160"/>
+		<vlc:item tid="161"/>
+		<vlc:item tid="162"/>
+		<vlc:item tid="163"/>
+		<vlc:item tid="164"/>
+		<vlc:item tid="165"/>
+		<vlc:item tid="166"/>
+		<vlc:item tid="167"/>
+		<vlc:item tid="168"/>
+		<vlc:item tid="169"/>
+		<vlc:item tid="170"/>
+		<vlc:item tid="171"/>
+		<vlc:item tid="172"/>
+		<vlc:item tid="173"/>
+		<vlc:item tid="174"/>
+		<vlc:item tid="175"/>
+		<vlc:item tid="176"/>
+		<vlc:item tid="177"/>
+		<vlc:item tid="178"/>
+		<vlc:item tid="179"/>
+		<vlc:item tid="180"/>
+		<vlc:item tid="181"/>
+		<vlc:item tid="182"/>
+		<vlc:item tid="183"/>
+		<vlc:item tid="184"/>
+		<vlc:item tid="185"/>
+		<vlc:item tid="186"/>
+		<vlc:item tid="187"/>
+		<vlc:item tid="188"/>
+		<vlc:item tid="189"/>
+		<vlc:item tid="190"/>
+		<vlc:item tid="191"/>
+		<vlc:item tid="192"/>
+		<vlc:item tid="193"/>
+		<vlc:item tid="194"/>
+		<vlc:item tid="195"/>
+		<vlc:item tid="196"/>
+		<vlc:item tid="197"/>
+		<vlc:item tid="198"/>
+		<vlc:item tid="199"/>
+		<vlc:item tid="200"/>
+		<vlc:item tid="201"/>
+		<vlc:item tid="202"/>
+		<vlc:item tid="203"/>
+		<vlc:item tid="204"/>
+		<vlc:item tid="205"/>
+		<vlc:item tid="206"/>
+		<vlc:item tid="207"/>
+		<vlc:item tid="208"/>
+		<vlc:item tid="209"/>
+		<vlc:item tid="210"/>
+		<vlc:item tid="211"/>
+		<vlc:item tid="212"/>
+		<vlc:item tid="213"/>
+		<vlc:item tid="214"/>
+		<vlc:item tid="215"/>
+		<vlc:item tid="216"/>
+		<vlc:item tid="217"/>
+		<vlc:item tid="218"/>
+		<vlc:item tid="219"/>
+		<vlc:item tid="220"/>
+		<vlc:item tid="221"/>
+		<vlc:item tid="222"/>
+		<vlc:item tid="223"/>
+		<vlc:item tid="224"/>
+		<vlc:item tid="225"/>
+		<vlc:item tid="226"/>
+		<vlc:item tid="227"/>
+		<vlc:item tid="228"/>
+		<vlc:item tid="229"/>
+		<vlc:item tid="230"/>
+		<vlc:item tid="231"/>
+		<vlc:item tid="232"/>
+		<vlc:item tid="233"/>
+		<vlc:item tid="234"/>
+		<vlc:item tid="235"/>
+		<vlc:item tid="236"/>
+		<vlc:item tid="237"/>
+		<vlc:item tid="238"/>
+		<vlc:item tid="239"/>
+		<vlc:item tid="240"/>
+		<vlc:item tid="241"/>
+		<vlc:item tid="242"/>
+		<vlc:item tid="243"/>
+		<vlc:item tid="244"/>
+		<vlc:item tid="245"/>
+		<vlc:item tid="246"/>
+		<vlc:item tid="247"/>
+		<vlc:item tid="248"/>
+		<vlc:item tid="249"/>
+		<vlc:item tid="250"/>
+		<vlc:item tid="251"/>
+		<vlc:item tid="252"/>
+		<vlc:item tid="253"/>
+		<vlc:item tid="254"/>
+		<vlc:item tid="255"/>
+		<vlc:item tid="256"/>
+		<vlc:item tid="257"/>
+		<vlc:item tid="258"/>
+		<vlc:item tid="259"/>
+		<vlc:item tid="260"/>
+		<vlc:item tid="261"/>
+		<vlc:item tid="262"/>
+		<vlc:item tid="263"/>
+		<vlc:item tid="264"/>
+		<vlc:item tid="265"/>
+		<vlc:item tid="266"/>
+		<vlc:item tid="267"/>
+		<vlc:item tid="268"/>
+		<vlc:item tid="269"/>
+		<vlc:item tid="270"/>
+		<vlc:item tid="271"/>
+		<vlc:item tid="272"/>
+		<vlc:item tid="273"/>
+		<vlc:item tid="274"/>
+		<vlc:item tid="275"/>
+		<vlc:item tid="276"/>
+		<vlc:item tid="277"/>
+		<vlc:item tid="278"/>
+		<vlc:item tid="279"/>
+		<vlc:item tid="280"/>
+		<vlc:item tid="281"/>
+		<vlc:item tid="282"/>
+		<vlc:item tid="283"/>
+		<vlc:item tid="284"/>
+		<vlc:item tid="285"/>
+		<vlc:item tid="286"/>
+		<vlc:item tid="287"/>
+		<vlc:item tid="288"/>
+		<vlc:item tid="289"/>
+		<vlc:item tid="290"/>
+		<vlc:item tid="291"/>
+		<vlc:item tid="292"/>
+		<vlc:item tid="293"/>
+		<vlc:item tid="294"/>
+		<vlc:item tid="295"/>
+		<vlc:item tid="296"/>
+		<vlc:item tid="297"/>
+		<vlc:item tid="298"/>
+		<vlc:item tid="299"/>
+		<vlc:item tid="300"/>
+		<vlc:item tid="301"/>
+		<vlc:item tid="302"/>
+		<vlc:item tid="303"/>
+		<vlc:item tid="304"/>
+		<vlc:item tid="305"/>
+		<vlc:item tid="306"/>
+		<vlc:item tid="307"/>
+		<vlc:item tid="308"/>
+		<vlc:item tid="309"/>
+		<vlc:item tid="310"/>
+		<vlc:item tid="311"/>
+		<vlc:item tid="312"/>
+		<vlc:item tid="313"/>
+		<vlc:item tid="314"/>
+		<vlc:item tid="315"/>
+		<vlc:item tid="316"/>
+		<vlc:item tid="317"/>
+		<vlc:item tid="318"/>
+		<vlc:item tid="319"/>
+		<vlc:item tid="320"/>
+		<vlc:item tid="321"/>
+		<vlc:item tid="322"/>
+		<vlc:item tid="323"/>
+		<vlc:item tid="324"/>
+		<vlc:item tid="325"/>
+		<vlc:item tid="326"/>
+		<vlc:item tid="327"/>
+		<vlc:item tid="328"/>
+		<vlc:item tid="329"/>
+		<vlc:item tid="330"/>
+		<vlc:item tid="331"/>
+		<vlc:item tid="332"/>
+		<vlc:item tid="333"/>
+		<vlc:item tid="334"/>
+		<vlc:item tid="335"/>
+		<vlc:item tid="336"/>
+		<vlc:item tid="337"/>
+		<vlc:item tid="338"/>
+		<vlc:item tid="339"/>
+		<vlc:item tid="340"/>
+		<vlc:item tid="341"/>
+		<vlc:item tid="342"/>
+		<vlc:item tid="343"/>
+		<vlc:item tid="344"/>
+		<vlc:item tid="345"/>
+		<vlc:item tid="346"/>
+		<vlc:item tid="347"/>
+		<vlc:item tid="348"/>
+		<vlc:item tid="349"/>
+		<vlc:item tid="350"/>
+		<vlc:item tid="351"/>
+		<vlc:item tid="352"/>
+		<vlc:item tid="353"/>
+		<vlc:item tid="354"/>
+		<vlc:item tid="355"/>
+		<vlc:item tid="356"/>
+		<vlc:item tid="357"/>
+		<vlc:item tid="358"/>
+		<vlc:item tid="359"/>
+		<vlc:item tid="360"/>
+		<vlc:item tid="361"/>
+		<vlc:item tid="362"/>
+		<vlc:item tid="363"/>
+		<vlc:item tid="364"/>
+		<vlc:item tid="365"/>
+		<vlc:item tid="366"/>
+		<vlc:item tid="367"/>
+		<vlc:item tid="368"/>
+		<vlc:item tid="369"/>
+		<vlc:item tid="370"/>
+		<vlc:item tid="371"/>
+		<vlc:item tid="372"/>
+		<vlc:item tid="373"/>
+		<vlc:item tid="374"/>
+		<vlc:item tid="375"/>
+		<vlc:item tid="376"/>
+		<vlc:item tid="377"/>
+		<vlc:item tid="378"/>
+		<vlc:item tid="379"/>
+		<vlc:item tid="380"/>
+	</extension>
+</playlist>
